@@ -10,10 +10,7 @@
 %                                                                      %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SUBMITTED BY-                                                        %
-%                02001012019: MITALI LAROIA                            %
-%                03001012019: BINWANT KAUR                             %
-%                03801012019: ANJALI SINGH                             %
-%                04001012019: AASTHA CHAUDHARY                         %
+%                SE20UCSE071- K.Chetan                     %
 %                     (B.Tech CSE-1)                                   %
 %                                                                      %
 %                                                                      %
